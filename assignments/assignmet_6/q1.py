@@ -5,6 +5,7 @@
 lst=[1,23,12,2,3,5,8,3,10,11,4,6,0,4,2]
 lst.sort()
 low=0
+
 upp=len(lst)-1
 element=int(input('enter element:'))
 k=[]
