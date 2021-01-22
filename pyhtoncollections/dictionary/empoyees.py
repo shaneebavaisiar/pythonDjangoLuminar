@@ -9,3 +9,6 @@ else:
 print(employee)
 
 # if employee salary<3500 add 5000rs more
+if employee['salary']<=30000:
+    employee['salary']+=5000
+print('updated salary:',employee['salary'])
