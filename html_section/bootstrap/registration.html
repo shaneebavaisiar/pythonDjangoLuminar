@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <!-- CSS only -->
+<link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta2/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-BmbxuPwQa2lc/FVzBcNJ7UAyJxM6wuqIj61tLrc4wSX0szH/Ev+nYRRuWlolflfl" crossorigin="anonymous">
+<style>
+    .bttn{
+        position: relative;
+        top: 10px;
+        left: 40%;
+    }
+    h1{
+        text-align: center;
+    }
+</style>
+</head>
+<body>
+    <div class="container">
+        <h1>welcome to login page</h1>
+        <form >
+            <div class="mb-3">
+            <label for=""  class="form-label">first name</label>
+            <input type="text"  class="form-control" >
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">last name</label>
+                <input type="text" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">phone Number</label>
+                <input type="text" class="form-control">
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">Gender</label>
+                <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault1">
+                    <label class="form-check-label" for="flexRadioDefault1">
+                      Female
+                    </label>
+                  </div>
+                  <div class="form-check">
+                    <input class="form-check-input" type="radio" name="flexRadioDefault" id="flexRadioDefault2" checked>
+                    <label class="form-check-label" for="flexRadioDefault2">
+                      Male
+                    </label>
+                  </div>
+            </div>
+            <div class="mb-3">
+                <label for="" class="form-label">select course</label>
+                <select name="" id="">
+                    <option value="">Django</option>
+                    <option value="">Artificial Inteligence</option>
+                </select>
+            </div>
+            <div class="bttn">
+                <button type="submit" class="btn btn-primary">Submit</button>
+
+            </div>
+           
+        </form>
+    </div>
+</body>
+</html>

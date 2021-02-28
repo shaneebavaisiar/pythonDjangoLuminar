@@ -1,0 +1,20 @@
+td{
+    width: 200px;
+    height: 500px;
+    position: relative;
+    left: 70%;
+    top: 100px;
+}
+.red{
+    background-color: red;
+    
+}
+.blue{
+    background-color: blue;
+   
+}
+.green{
+    background-color: green;
+   
+    
+}

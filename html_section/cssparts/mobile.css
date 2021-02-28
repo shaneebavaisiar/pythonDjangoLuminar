@@ -1,0 +1,26 @@
+body{
+    background-image: url('nature.jpg');
+}
+h1{
+    color: crimson;
+    text-align: center;
+}
+#nokia{
+    background-color: rgb(116, 116, 228);
+    border-style: solid;
+    border-width: 1px;
+    border-color: white;
+    width: 50%;
+    text-align: center;
+}
+#samsung{
+    background-color:orange;
+    width: 50%;
+}
+.i{
+    background-color: paleturquoise;
+    width: 50%;
+}
+.s{
+    text-align: center;
+}

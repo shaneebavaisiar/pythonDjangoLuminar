@@ -1,0 +1,17 @@
+.top{
+    height: 80px;
+    width: 60%;
+    background-color: cornflowerblue;
+    padding-top: 5px;
+    padding-left: 23px;
+    font-weight: 600;
+    font-size:50px;
+}
+
+.bottom{
+    height: 80px;
+    width: 60%;
+    background-color:red;
+    padding-top: 5px;
+    padding-left: 23px;
+}

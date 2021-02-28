@@ -1,0 +1,34 @@
+
+div{
+    width: 60px;
+    height: 200px;
+    margin-top: 10px;
+    margin-left: 10px;
+}
+.red{
+    background-color: red;
+    float: left;
+
+  
+}
+.yellow{
+    background-color:yellow;
+    float: left;
+    
+  
+}
+.g{
+    background-color:blue;
+    float: left;
+  
+}
+.a{
+    background-color:green;
+    float: left;
+  
+}
+.q{
+    background-color: orange;
+    float: left;
+  
+}
