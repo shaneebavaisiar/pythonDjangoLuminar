@@ -1,0 +1,15 @@
+.a{
+    border: black;
+}
+
+/* .top-head{
+    background-image: linear-gradient(#de2e0b,#eb5d05);
+} */
+/* h3{
+    color: red;
+} */
+.border-line{
+    height: 3px;
+    background-image: linear-gradient(to right,#ed052b ,#f7a707 100% );
+  
+}
